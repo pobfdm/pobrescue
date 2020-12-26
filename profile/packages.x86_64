@@ -116,6 +116,9 @@ mate-desktop
 mate
 mate-extra
 gvfs-smb
+gvfs-gphoto2
+gvfs-mtp
+gvfs-nfs
 openssh
 gsmartcontrol
 samba
