@@ -1,0 +1,10 @@
+NAME="PobRescue"
+PRETTY_NAME="PobRescue"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://www.freemedialab.org/"
+DOCUMENTATION_URL="https://www.freemedialab.org/"
+SUPPORT_URL="https://www.freemedialab.org/"
+BUG_REPORT_URL="https://www.freemedialab.org/"
+LOGO=archlinux
