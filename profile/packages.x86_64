@@ -124,11 +124,13 @@ gsmartcontrol
 samba
 brasero
 grsync
+wget
 clamav
 gparted
 midori
 testdisk
 sshfs
+networkmanager
 
 
 
