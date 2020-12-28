@@ -125,12 +125,13 @@ samba
 brasero
 grsync
 wget
+rclone
 clamav
 gparted
 midori
 testdisk
 sshfs
 networkmanager
-
+network-manager-applet
 
 
