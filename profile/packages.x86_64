@@ -126,6 +126,7 @@ brasero
 grsync
 wget
 rclone
+vsftpd
 clamav
 gparted
 midori
