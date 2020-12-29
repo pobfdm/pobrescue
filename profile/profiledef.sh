@@ -15,6 +15,7 @@ file_permissions=(
   ["/etc/shadow"]="0:0:400"
   ["/etc/gshadow"]="0:0:0400"
   ["/media/"]="0:0:0777"
+  ["/etc/skel/Desktop/mate-terminal.desktop"]="0:0:0777"
   ["/usr/local/bin/automount"]="0:0:0777"	
   ["/root"]="0:0:750"
   ["/root/.automated_script.sh"]="0:0:755"

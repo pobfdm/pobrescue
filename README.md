@@ -13,17 +13,17 @@ Pobrescue is a Linux live system rescue disk . It's based on ArchLinux Linux.
 Purpose| Packages
 ------------ | -------------
 Diagnostics| Memtest, Gsmartcontrol, Smartmontools
-Network| Network-manager, Open Ssh(started at boot),Sshfs,Samba, Curl, Wget;
+Network| Network-manager, OpenSsh, Vsftpd(started at boot),Sshfs,Samba, Curl, Wget;
 Burning disk| Wodim, Growisofs, Brasero  
-Automount| Disk are automounted in /media 
+Automount| Disks are automounted in /media 
 Antivirus| Clamav; 
-Backup| Rsync,Grsync, dd, Partimage, Clonezilla 
+Backup| Rsync,Grsync,Rclone dd, Partimage, Clonezilla 
 Data recovery| Testdisk, Photorec 
 Partition manager| Gparted, Fdisk 
-File manager| Midnight Commander, Spacefm 
+File manager| Midnight Commander, Caja 
 Text Editor| Nano, Pluma
 Web Browser| Midori, Elinks
-Xterm| Sakura, Xterm 
+Xterm| Mate Terminal 
 Programming languages| Perl, Python, Bash 
 
 

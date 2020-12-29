@@ -130,6 +130,7 @@ vsftpd
 clamav
 gparted
 midori
+transmission-gtk
 testdisk
 sshfs
 networkmanager
