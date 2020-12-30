@@ -9,5 +9,6 @@ To connect to network type "nmtui"
 
 To become root type "sudo -i"
 To assign a password for the root user type: "sudo passwd"
+The password for the root user is "pob"
 The password for the pob user is "pob"
 
