@@ -11,4 +11,5 @@ To become root type "sudo -i"
 To assign a password for the root user type: "sudo passwd"
 The password for the root user is "pob"
 The password for the pob user is "pob"
+The vnc password is "pob123". You can change with "vncpasswd"  
 

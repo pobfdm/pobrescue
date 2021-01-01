@@ -7,6 +7,24 @@ Pobrescue is a Linux live system rescue disk . It's based on ArchLinux Linux.
 ## Docs
 [Make a usb bootable media](docs/pobrescue_on_usb.md)
 
+## Info
+
+To connect to network type "nmtui"
+
+To become root type "sudo -i"
+To assign a password for the root user type: "sudo passwd"
+The password for the root user is "pob"
+The password for the pob user is "pob"
+The vnc password is "pob123". You can change with "vncpasswd"
+
+
+## Enabled Services
+
+Openssh
+Tigervnc
+VsFtpd
+NetworkManager
+
 ## Applications and Features:
 
 
