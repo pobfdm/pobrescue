@@ -20,10 +20,10 @@ The vnc password is "pob123". You can change with "vncpasswd"
 
 ## Enabled Services
 
-Openssh
-Tigervnc
-VsFtpd
-NetworkManager
+- Openssh
+- Tigervnc
+- VsFtpd
+- NetworkManager
 
 ## Applications and Features:
 
