@@ -120,6 +120,7 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 openssh
+tigervnc
 gsmartcontrol
 samba
 brasero
