@@ -9,13 +9,15 @@ Pobrescue is a Linux live system rescue disk . It's based on ArchLinux Linux.
 
 ## Info
 
-To connect to network type "nmtui"
+To connect to network type "nmtui"  
 
-To become root type "sudo -i"
-To assign a password for the root user type: "sudo passwd"
-The password for the root user is "pob"
-The password for the pob user is "pob"
-The vnc password is "pob123". You can change with "vncpasswd"
+To become root type "sudo -i"  
+To assign a password for the root user type: "sudo passwd"  
+The password for the root user is "pob"  
+The password for the pob user is "pob"  
+The vnc password is "pob123". You can change with "vncpasswd"  
+The Samba user is "pob" and password is "pob"  
+ 
 
 
 ## Enabled Services
@@ -24,6 +26,7 @@ The vnc password is "pob123". You can change with "vncpasswd"
 - Tigervnc
 - VsFtpd
 - NetworkManager
+- Samba
 
 ## Applications and Features:
 
